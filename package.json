@@ -1,4 +1,5 @@
-{ "homepage": "http://dhirajbag.github.io/sorting-visualizer",
+{
+  "homepage": "http://lajuk-code.github.io/sorting-visualizer",
   "name": "sorting",
   "version": "0.1.0",
   "private": true,
